@@ -12,10 +12,10 @@ width="520" height="375">
 width="680" height="280">
 ## Game Screen
 <img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_4.png" align="center"
-width="680" height="280">
+width="600" height="600">
 ##
 <img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_5.png" align="center"
-width="680" height="280"> 
+width="600" height="600"> 
 ## Level LED
 <img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_6.png" align="center"
 width="505" height="305">
