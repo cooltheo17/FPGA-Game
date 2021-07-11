@@ -21,13 +21,13 @@ width="680" height="280">
 width="505" height="305">
 ## Game State LED
 <img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_7.png" align="right"
-width="310" height="220"> 
+width="250" height="190">
 <img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_8.png" align="center"
-width="310" height="220">
+width="250" height="190">
 <img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_9.png" align="left"
-width="310" height="220">
+width="250" height="190">
 ## Game topology
-<img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_9.png" align="left"
+<img src="https://raw.githubusercontent.com/cooltheo17/FPGA-Game/main/images/image_10.png" align="left"
 width="815" height="615">
 ## ⚠️ Disclaimer!
 Please contact me to get access to the code, as it is protected for academic plagiarism.
